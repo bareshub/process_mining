@@ -1,4 +1,4 @@
-# Definition of Petri Net
+# Exercise 1: Definition of Petri Net
 
 Define a Petri net class that will pass the tests. The Petri net class should be based on the following skeleton:
 
